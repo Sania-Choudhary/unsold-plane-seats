@@ -7,4 +7,4 @@ I was especially interested in this question because I boarded in international 
 ## Chart findings
 It was very interesting to me to see that the vast majority of respondents (690/855) believed that moving to unsold seats on a plane is not rude at all. Some respondents believed it was somewhat rude (128/855) and comparatively few thought it was very rude (37/855). These findings reveal that overall, a majority of flight passengers do not consider it rude for passengers to move from their seat to an unsold plane seat.
 
-Here is a link to the bar chart I made, which shows the distribution of responses to this survey question: ![This is a datawrapper chart](Quiz4-Question5-SaniaChoudhary.png)
+Here is a link to the bar chart I made, which shows the distribution of responses to this survey question: ![This is a data wrapper chart](Quiz4-Question5-SaniaChoudhary.png)
